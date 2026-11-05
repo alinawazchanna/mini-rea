@@ -1,0 +1,1 @@
+{"bin":{"mini-rea":"bin/mini-rea"},"description":"A tiny reverse-engineering helper: inspect a file, list its strings, hashes and structure. No dependencies, runs locally.","engines":{"node":">=18"},"files":["bin","src","README.md","LICENSE"],"license":"MIT","name":"mini-rea","scripts":{"test":"node --test tests/mini-rea.test.mjs"},"type":"module","version":"0.1.0"}
